@@ -22,4 +22,5 @@
   
   <!-- Vendor -->
   <project path="vendor/Inspiration-UI" name="vendor_Inspiration-UI" remote="Inspiration-15-UI" />
+  
   </manifest>
