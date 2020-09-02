@@ -793,6 +793,6 @@
   <include name="snippets/remove.xml" />
 
   <!-- Add some LineageOS repos -->
-  <include name="snippets/lineage.xml" /
+  <include name="snippets/lineage.xml" />
 
 </manifest>
