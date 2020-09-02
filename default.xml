@@ -8,7 +8,7 @@
   <remote  name="github"
            fetch="https://github.com/" />
   
-  <remote  name="fluid"
+  <remote  name="Inspiration-UI"
            fetch="https://github.com/Inspiration-15-UI"
            revision="Inspiration-15-UI" />
 
