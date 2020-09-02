@@ -795,7 +795,7 @@
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
   
-  <!-- Add some LineageOS repos -->
+  <!-- Add some Inspiration-UI repos -->
   <include name="snippets/Inspiration-UI.xml" />
 
 </manifest>
