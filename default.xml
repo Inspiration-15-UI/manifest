@@ -802,6 +802,9 @@
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
   
+   <!-- Add some Inspiration-UI repos -->
+  <include name="snippets/fluid.xml" />
+  
   <!-- Add some Inspiration-UI repos -->
   <include name="snippets/Inspiration-UI.xml" />
 
