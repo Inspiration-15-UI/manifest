@@ -11,10 +11,6 @@
   <remote  name="Inspiration-UI"
            fetch="https://github.com/Inspiration-15-UI"
            revision="Inspiration-15-UI" />
-  
-  <remote  name="fluid"
-           fetch="https://github.com/Project-Fluid"
-           revision="fluid-10" />
 
   <default revision="refs/tags/android-10.0.0_r41"
            remote="aosp"
@@ -802,14 +798,11 @@
 
   <!-- Remove unused AOSP repos -->
   <include name="snippets/remove.xml" />
-  
-  <!-- Add some fluid repos -->
-  <include name="snippets/fluid.xml" />
 
-  <!-- Add some LineageOS repos -->
-  <include name="snippets/lineage.xml" />
-  
   <!-- Add some Inspiration-UI repos -->
   <include name="snippets/Inspiration-UI.xml" />
+  
+  <!-- Add some LineageOS repos -->
+  <include name="snippets/lineage.xml" />
 
 </manifest>
