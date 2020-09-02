@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+  
   <remote name="Inspiration-15-UI"
           fetch="https://github.com/Inspiration-15-UI"
           revision="ten"
@@ -19,6 +19,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+
   
   <!-- Vendor -->
   <project path="vendor/Inspiration-UI" name="vendor_Inspiration-UI" remote="Inspiration-15-UI" />
