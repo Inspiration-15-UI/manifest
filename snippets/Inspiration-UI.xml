@@ -15,7 +15,4 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />   
   
-   <!-- Vendor -->
-   <project path="vendor/Inspiration-UI " name="vendor_Inspiration-UI " remote="Inspiration-UI" />
-  
   </manifest>
