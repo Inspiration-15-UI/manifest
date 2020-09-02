@@ -13,8 +13,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
     <linkfile src="root.bp" dest="Android.bp" />
-    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-  </project>     
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />   
   
    <!-- Vendor -->
    <project path="vendor/Inspiration-UI " name="vendor_Inspiration-UI " remote="Inspiration-15-UI" />
