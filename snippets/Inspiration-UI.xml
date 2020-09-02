@@ -3,7 +3,7 @@
   
   <remote name="Inspiration-15-UI"
           fetch="https://github.com/Inspiration-15-UI" />
-          revision="ten"
+          revision="refs/heads/Inspiration-15-UI-ten" />
            
   <!-- Build -->
   <project path="build/make" name="build" remote="Inspiration-15-UI">
