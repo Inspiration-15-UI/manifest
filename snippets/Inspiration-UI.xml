@@ -26,6 +26,12 @@
   <!-- Frameworks -->
   <project path="frameworks/base" name="frameworks_base" remote="Inspiration-15-UI" />
   
+  <!-- General -->
+  <project path="bionic" name="bionic" remote="Inspiration-15-UI" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="Inspiration-15-UI" />
+  <project path="manifest" name="manifest" remote="Inspiration-15-UI" />
+  <project path="platform_testing" name="platform_testing" remote="Inspiration-15-UI" />
+  
   <!-- Packages -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="Inspiration-15-UI" />
   
