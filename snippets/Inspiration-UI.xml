@@ -35,6 +35,9 @@
   <!-- Packages -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="Inspiration-15-UI" />
   
+  <!-- Prebuilts -->
+  <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="fluid" clone-depth="1" />
+  
   <!-- Vendor -->
   <project path="vendor/Inspiration-UI" name="vendor_Inspiration-UI" remote="Inspiration-15-UI" />
   <project path="vendor/UI-features" name="vendor_UI-features" remote="Inspiration-15-UI" />
