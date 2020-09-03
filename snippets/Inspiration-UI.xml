@@ -20,7 +20,17 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- External -->
+  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="Inspiration-15-UI" />
+  
+  <!-- Frameworks -->
+  <project path="frameworks/base" name="frameworks_base" remote="Inspiration-15-UI" />
+  
+  <!-- Packages -->
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="Inspiration-15-UI" />
+  
   <!-- Vendor -->
   <project path="vendor/Inspiration-UI" name="vendor_Inspiration-UI" remote="Inspiration-15-UI" />
+  <project path="vendor/UI-features" name="vendor_UI-features" remote="Inspiration-15-UI" />
   
   </manifest>
